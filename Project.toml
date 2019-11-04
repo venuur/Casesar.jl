@@ -1,0 +1,8 @@
+name = "Caesar"
+uuid = "91ce46d0-fc32-11e9-1030-7f6a183bc47a"
+authors = ["Carl Morris <carl.morris.world@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
